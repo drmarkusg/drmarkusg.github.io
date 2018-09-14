@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dr. Markus Gardill</title>
+    <link>http://markus.gardill.net/publication/</link>
+    <description>Recent content in Publications on Dr. Markus Gardill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://markus.gardill.net/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Characterization and Design of Small Array Antennas for Direction-Of-Arrival Estimation for Ultra-Wideband Industrial FMCW Radar Systems</title>
+      <link>http://markus.gardill.net/publication/phdthesis/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://markus.gardill.net/publication/phdthesis/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
