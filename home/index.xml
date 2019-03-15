@@ -2,96 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dr. Markus Gardill</title>
-    <link>http://markus.gardill.net/home/</link>
+    <link>https://markus.gardill.net/home/</link>
     <description>Recent content in Homes on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://markus.gardill.net/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markus.gardill.net/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://markus.gardill.net/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://markus.gardill.net/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://markus.gardill.net/home/about/</guid>
-      <description>Biography Markus Gardill is a senior software developer for automotive radar signal processing algorithms at InnoSenT GmbH, Donnersdorf, Germany. He also acts as lecturer at the Friedrich-Alexander-University Erlangen-Nürnberg for the field of wireless automotive electronics. He is a member of the IEEE Microwave Theory and Techniques Societey Technical Committe 9 for digital signal processing. Since 2018, Markus Gardill serves as IEEE Distinguished Microwave Lecturer with a talk on automotive radar sytems.</description>
+      <guid>https://markus.gardill.net/home/slider/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>http://markus.gardill.net/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Biography</title>
+      <link>https://markus.gardill.net/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://markus.gardill.net/home/publications_selected/</guid>
+      <guid>https://markus.gardill.net/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://markus.gardill.net/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://markus.gardill.net/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://markus.gardill.net/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://markus.gardill.net/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured</title>
+      <link>https://markus.gardill.net/home/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://markus.gardill.net/home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://markus.gardill.net/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <link>https://markus.gardill.net/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://markus.gardill.net/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>http://markus.gardill.net/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://markus.gardill.net/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>http://markus.gardill.net/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://markus.gardill.net/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://markus.gardill.net/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://markus.gardill.net/home/projects/</guid>
-      <description></description>
+      <guid>https://markus.gardill.net/home/publications/</guid>
+      <description> Quickly discover relevant content by filtering publications.
+  </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://markus.gardill.net/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://markus.gardill.net/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://markus.gardill.net/home/teaching/</guid>
+      <guid>https://markus.gardill.net/home/teaching/</guid>
       <description>I am currently a teaching instructor for the following courses at Friedrich-Alexander-University Erlangen Nürnberg:
  Drahtlose Automobilelektronik (VORL DAE)  I also acted as a teaching instructor for the following courses:
  Schaltungen und Systeme der Übertragungstechnik (VORL SSÜ) Elektronik programmierbarer Digitalsysteme (VORL EPD) Übungen zu Elektronik programmierbarer Digitalsysteme (UE EPD) Praktikum Automobilelektronik (Prak AutoEl) Digitale elektronische Systeme (VORL DES) Praktikum Grundlagen der Elektrotechnik I für Medizintechnik (PR GETI-MT) Übungen zu Schaltungstechnik (UE ST)  </description>
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>http://markus.gardill.net/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <title>Projects</title>
+      <link>https://markus.gardill.net/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://markus.gardill.net/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://markus.gardill.net/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://markus.gardill.net/home/contact/</guid>
+      <guid>https://markus.gardill.net/home/projects/</guid>
       <description></description>
     </item>
     

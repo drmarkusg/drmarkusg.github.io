@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Gardill on Dr. Markus Gardill</title>
+    <link>https://markus.gardill.net/authors/m.-gardill/</link>
+    <description>Recent content in M. Gardill on Dr. Markus Gardill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://markus.gardill.net/authors/m.-gardill/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Model Order Estimation using a Multi-Layer Perceptron for Direction-of-Arrival Estimation in Automotive Radar Sensors</title>
+      <link>https://markus.gardill.net/publication/ieee_rww_2019/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/ieee_rww_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
+      <link>https://markus.gardill.net/publication/ieee_mlsp_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/ieee_mlsp_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
+      <link>https://markus.gardill.net/publication/ieee_ims_2017/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/ieee_ims_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
+      <link>https://markus.gardill.net/publication/kloc-lets-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/kloc-lets-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization and design of small array antennas for direction-of-arrival estimation for ultra-wideband industrial FMCW radar systems</title>
+      <link>https://markus.gardill.net/publication/phd_thesis/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/phd_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

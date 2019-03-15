@@ -2,32 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Dr. Markus Gardill</title>
-    <link>http://markus.gardill.net/talk/</link>
+    <link>https://markus.gardill.net/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 23:17:55 +0100</lastBuildDate>
     
-	<atom:link href="http://markus.gardill.net/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markus.gardill.net/talk/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Aktuelle Entwicklungen und Trends in Radaranwendungen im Automobilumfeld</title>
-      <link>http://markus.gardill.net/talk/performanceoptimierungsafetykritischermulticoreanwendungen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://markus.gardill.net/talk/performanceoptimierungsafetykritischermulticoreanwendungen/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Automotive Radar – A Signal Processing Perspective on Current Technology and Future Systems</title>
-      <link>http://markus.gardill.net/talk/dml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Distinguished Microwave Lecture: Automotive Radar - A Signal Processing Perspective on Current Technology and Future Systems</title>
+      <link>https://markus.gardill.net/talk/dml/</link>
+      <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
       
-      <guid>http://markus.gardill.net/talk/dml/</guid>
-      <description></description>
+      <guid>https://markus.gardill.net/talk/dml/</guid>
+      <description> </description>
     </item>
     
   </channel>

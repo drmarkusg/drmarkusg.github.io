@@ -2,50 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Dr. Markus Gardill</title>
-    <link>http://markus.gardill.net/publication/</link>
+    <link>https://markus.gardill.net/publication/</link>
     <description>Recent content in Publications on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://markus.gardill.net/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markus.gardill.net/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A MULTI-LAYER PERCEPTRON APPLIED TO NUMBER OF TARGET INDICATION FOR DIRECTION-OF-ARRIVAL ESTIMATION IN AUTOMOTIVE RADAR SENSORS</title>
-      <link>http://markus.gardill.net/publication/mlsp2018/</link>
-      <pubDate>Sun, 16 Sep 2018 00:30:16 +0200</pubDate>
+      <title>Model Order Estimation using a Multi-Layer Perceptron for Direction-of-Arrival Estimation in Automotive Radar Sensors</title>
+      <link>https://markus.gardill.net/publication/ieee_rww_2019/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://markus.gardill.net/publication/mlsp2018/</guid>
+      <guid>https://markus.gardill.net/publication/ieee_rww_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
+      <link>https://markus.gardill.net/publication/ieee_mlsp_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/ieee_mlsp_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
-      <link>http://markus.gardill.net/publication/ims2017/</link>
-      <pubDate>Sun, 04 Jun 2017 00:30:16 +0200</pubDate>
+      <link>https://markus.gardill.net/publication/ieee_ims_2017/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://markus.gardill.net/publication/ims2017/</guid>
+      <guid>https://markus.gardill.net/publication/ieee_ims_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Let’s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
-      <link>http://markus.gardill.net/publication/microwavemagazine2016/</link>
-      <pubDate>Mon, 04 Jan 2016 00:30:16 +0200</pubDate>
+      <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
+      <link>https://markus.gardill.net/publication/kloc-lets-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://markus.gardill.net/publication/microwavemagazine2016/</guid>
+      <guid>https://markus.gardill.net/publication/kloc-lets-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Characterization and Design of Small Array Antennas for Direction-Of-Arrival Estimation for Ultra-Wideband Industrial FMCW Radar Systems</title>
-      <link>http://markus.gardill.net/publication/phdthesis/</link>
-      <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
+      <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
+      <link>https://markus.gardill.net/publication/kloc-low-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://markus.gardill.net/publication/phdthesis/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://markus.gardill.net/publication/kloc-low-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization and design of small array antennas for direction-of-arrival estimation for ultra-wideband industrial FMCW radar systems</title>
+      <link>https://markus.gardill.net/publication/phd_thesis/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/phd_thesis/</guid>
+      <description></description>
     </item>
     
   </channel>
