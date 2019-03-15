@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markus Gardill on Dr. Markus Gardill</title>
-    <link>drmarkusg.github.io/authors/markus-gardill/</link>
+    <link>https://drmarkusg.github.io/authors/markus-gardill/</link>
     <description>Recent content in Markus Gardill on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2019 23:17:55 +0100</lastBuildDate>
     
-	<atom:link href="drmarkusg.github.io/authors/markus-gardill/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drmarkusg.github.io/authors/markus-gardill/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Distinguished Microwave Lecture: Automotive Radar - A Signal Processing Perspective on Current Technology and Future Systems</title>
-      <link>drmarkusg.github.io/talk/dml/</link>
+      <link>https://drmarkusg.github.io/talk/dml/</link>
       <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
       
-      <guid>drmarkusg.github.io/talk/dml/</guid>
+      <guid>https://drmarkusg.github.io/talk/dml/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
-      <link>drmarkusg.github.io/publication/kloc-low-2016/</link>
+      <link>https://drmarkusg.github.io/publication/kloc-low-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>drmarkusg.github.io/publication/kloc-low-2016/</guid>
+      <guid>https://drmarkusg.github.io/publication/kloc-low-2016/</guid>
       <description></description>
     </item>
     

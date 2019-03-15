@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dr. Markus Gardill</title>
-    <link>drmarkusg.github.io/home/</link>
+    <link>https://drmarkusg.github.io/home/</link>
     <description>Recent content in Homes on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="drmarkusg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drmarkusg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>drmarkusg.github.io/home/slider/</link>
+      <link>https://drmarkusg.github.io/home/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/slider/</guid>
+      <guid>https://drmarkusg.github.io/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>drmarkusg.github.io/home/about/</link>
+      <link>https://drmarkusg.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/about/</guid>
+      <guid>https://drmarkusg.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>drmarkusg.github.io/home/experience/</link>
+      <link>https://drmarkusg.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/experience/</guid>
+      <guid>https://drmarkusg.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>drmarkusg.github.io/home/talks/</link>
+      <link>https://drmarkusg.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/talks/</guid>
+      <guid>https://drmarkusg.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured</title>
-      <link>drmarkusg.github.io/home/featured/</link>
+      <link>https://drmarkusg.github.io/home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/featured/</guid>
+      <guid>https://drmarkusg.github.io/home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>drmarkusg.github.io/home/publications/</link>
+      <link>https://drmarkusg.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/publications/</guid>
+      <guid>https://drmarkusg.github.io/home/publications/</guid>
       <description> Quickly discover relevant content by filtering publications.
   </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>drmarkusg.github.io/home/teaching/</link>
+      <link>https://drmarkusg.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/teaching/</guid>
+      <guid>https://drmarkusg.github.io/home/teaching/</guid>
       <description>I am currently a teaching instructor for the following courses at Friedrich-Alexander-University Erlangen Nürnberg:
  Drahtlose Automobilelektronik (VORL DAE)  I also acted as a teaching instructor for the following courses:
  Schaltungen und Systeme der Übertragungstechnik (VORL SSÜ) Elektronik programmierbarer Digitalsysteme (VORL EPD) Übungen zu Elektronik programmierbarer Digitalsysteme (UE EPD) Praktikum Automobilelektronik (Prak AutoEl) Digitale elektronische Systeme (VORL DES) Praktikum Grundlagen der Elektrotechnik I für Medizintechnik (PR GETI-MT) Übungen zu Schaltungstechnik (UE ST)  </description>
@@ -78,10 +78,10 @@
     
     <item>
       <title>Projects</title>
-      <link>drmarkusg.github.io/home/projects/</link>
+      <link>https://drmarkusg.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>drmarkusg.github.io/home/projects/</guid>
+      <guid>https://drmarkusg.github.io/home/projects/</guid>
       <description></description>
     </item>
     

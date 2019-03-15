@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Dr. Markus Gardill</title>
-    <link>drmarkusg.github.io/publication/</link>
+    <link>https://drmarkusg.github.io/publication/</link>
     <description>Recent content in Publications on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="drmarkusg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drmarkusg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Model Order Estimation using a Multi-Layer Perceptron for Direction-of-Arrival Estimation in Automotive Radar Sensors</title>
-      <link>drmarkusg.github.io/publication/ieee_rww_2019/</link>
+      <link>https://drmarkusg.github.io/publication/ieee_rww_2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>drmarkusg.github.io/publication/ieee_rww_2019/</guid>
+      <guid>https://drmarkusg.github.io/publication/ieee_rww_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
-      <link>drmarkusg.github.io/publication/ieee_mlsp_2018/</link>
+      <link>https://drmarkusg.github.io/publication/ieee_mlsp_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>drmarkusg.github.io/publication/ieee_mlsp_2018/</guid>
+      <guid>https://drmarkusg.github.io/publication/ieee_mlsp_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
-      <link>drmarkusg.github.io/publication/ieee_ims_2017/</link>
+      <link>https://drmarkusg.github.io/publication/ieee_ims_2017/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0200</pubDate>
       
-      <guid>drmarkusg.github.io/publication/ieee_ims_2017/</guid>
+      <guid>https://drmarkusg.github.io/publication/ieee_ims_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
-      <link>drmarkusg.github.io/publication/kloc-lets-2016/</link>
+      <link>https://drmarkusg.github.io/publication/kloc-lets-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>drmarkusg.github.io/publication/kloc-lets-2016/</guid>
+      <guid>https://drmarkusg.github.io/publication/kloc-lets-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
-      <link>drmarkusg.github.io/publication/kloc-low-2016/</link>
+      <link>https://drmarkusg.github.io/publication/kloc-low-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>drmarkusg.github.io/publication/kloc-low-2016/</guid>
+      <guid>https://drmarkusg.github.io/publication/kloc-low-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization and design of small array antennas for direction-of-arrival estimation for ultra-wideband industrial FMCW radar systems</title>
-      <link>drmarkusg.github.io/publication/phd_thesis/</link>
+      <link>https://drmarkusg.github.io/publication/phd_thesis/</link>
       <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>drmarkusg.github.io/publication/phd_thesis/</guid>
+      <guid>https://drmarkusg.github.io/publication/phd_thesis/</guid>
       <description></description>
     </item>
     
