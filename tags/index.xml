@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dr. Markus Gardill</title>
-    <link>https://drmarkusg.github.io/tags/</link>
+    <link>https://markus.gardill.net/tags/</link>
     <description>Recent content in Tags on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://drmarkusg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://markus.gardill.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>https://drmarkusg.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <link>https://markus.gardill.net/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://drmarkusg.github.io/tags/deep-learning/</guid>
+      <guid>https://markus.gardill.net/tags/deep-learning/</guid>
       <description></description>
     </item>
     
