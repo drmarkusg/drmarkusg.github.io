@@ -5,51 +5,88 @@
     <description>Recent content in Dr. Markus Gardill on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Publications</title>
-      <link>https://markus.gardill.net/publication/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
+      <title>Single-Snapshot Direction-of-Arrival Estimation of Multiple Targets using a Multi-Layer Perceptron</title>
+      <link>https://markus.gardill.net/publication/ieee_icmim_2019/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://markus.gardill.net/publication/</guid>
+      <guid>https://markus.gardill.net/publication/ieee_icmim_2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://markus.gardill.net/talk/</link>
+      <title>Distinguished Microwave Lecture: Automotive Radar - A Signal Processing Perspective on Current Technology and Future Systems</title>
+      <link>https://markus.gardill.net/talk/dml/</link>
       <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
       
-      <guid>https://markus.gardill.net/talk/</guid>
+      <guid>https://markus.gardill.net/talk/dml/</guid>
+      <description>&lt;iframe src=&#34;https://www.google.de/maps/d/embed?mid=1nZKYwzACpFc1z3rPmqS1Nhoimljg0vgV&#34; width=&#34;640&#34; height=&#34;300&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model Order Estimation using a Multi-Layer Perceptron for Direction-of-Arrival Estimation in Automotive Radar Sensors</title>
+      <link>https://markus.gardill.net/publication/ieee_rww_2019/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/ieee_rww_2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Teachings</title>
-      <link>https://markus.gardill.net/teaching/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
+      <link>https://markus.gardill.net/publication/ieee_mlsp_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://markus.gardill.net/teaching/</guid>
+      <guid>https://markus.gardill.net/publication/ieee_mlsp_2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Authors</title>
-      <link>https://markus.gardill.net/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
+      <link>https://markus.gardill.net/publication/ieee_ims_2017/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://markus.gardill.net/author/</guid>
+      <guid>https://markus.gardill.net/publication/ieee_ims_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://markus.gardill.net/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Circuits &amp; Systems for Communications</title>
+      <link>https://markus.gardill.net/teaching/ssue/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://markus.gardill.net/post/</guid>
+      <guid>https://markus.gardill.net/teaching/ssue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
+      <link>https://markus.gardill.net/publication/kloc-lets-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/kloc-lets-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
+      <link>https://markus.gardill.net/publication/kloc-low-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/kloc-low-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization and design of small array antennas for direction-of-arrival estimation for ultra-wideband industrial FMCW radar systems</title>
+      <link>https://markus.gardill.net/publication/phd_thesis/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://markus.gardill.net/publication/phd_thesis/</guid>
       <description></description>
     </item>
     
