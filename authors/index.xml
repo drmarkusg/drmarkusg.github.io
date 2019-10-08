@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Dr. Markus Gardill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://markus.gardill.net/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>J. Fuchs</title>
       <link>https://markus.gardill.net/authors/j.-fuchs/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/j.-fuchs/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>J. Schwendner</title>
+      <link>https://markus.gardill.net/authors/j.-schwendner/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://markus.gardill.net/authors/j.-schwendner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M. Gardill</title>
       <link>https://markus.gardill.net/authors/m.-gardill/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/m.-gardill/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>R. Weigel</title>
       <link>https://markus.gardill.net/authors/r.-weigel/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/r.-weigel/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>C. Frank</title>
       <link>https://markus.gardill.net/authors/c.-frank/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/c.-frank/</guid>
       <description></description>
@@ -59,7 +68,7 @@
     <item>
       <title>A. Koelpin</title>
       <link>https://markus.gardill.net/authors/a.-koelpin/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/a.-koelpin/</guid>
       <description></description>
@@ -68,7 +77,7 @@
     <item>
       <title>F. Lurz</title>
       <link>https://markus.gardill.net/authors/f.-lurz/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/f.-lurz/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>S. Lindner</title>
       <link>https://markus.gardill.net/authors/s.-lindner/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/s.-lindner/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>S. Linz</title>
       <link>https://markus.gardill.net/authors/s.-linz/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0700</pubDate>
       
       <guid>https://markus.gardill.net/authors/s.-linz/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>G. Fischer</title>
       <link>https://markus.gardill.net/authors/g.-fischer/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/g.-fischer/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>J. Brendel</title>
       <link>https://markus.gardill.net/authors/j.-brendel/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/j.-brendel/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>M. Kloc</title>
       <link>https://markus.gardill.net/authors/m.-kloc/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/m.-kloc/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>Matej Kloc</title>
       <link>https://markus.gardill.net/authors/matej-kloc/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/matej-kloc/</guid>
       <description></description>
@@ -131,7 +140,7 @@
     <item>
       <title>Norman Franchi</title>
       <link>https://markus.gardill.net/authors/norman-franchi/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/norman-franchi/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>Robert Weigel</title>
       <link>https://markus.gardill.net/authors/robert-weigel/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/robert-weigel/</guid>
       <description></description>
@@ -149,18 +158,9 @@
     <item>
       <title>S. Riess</title>
       <link>https://markus.gardill.net/authors/s.-riess/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://markus.gardill.net/authors/s.-riess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markus</title>
-      <link>https://markus.gardill.net/authors/markus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://markus.gardill.net/authors/markus/</guid>
       <description></description>
     </item>
     
