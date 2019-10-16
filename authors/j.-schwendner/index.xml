@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Schwendner | Dr. Markus Gardill</title>
+    <link>https://markus.gardill.net/authors/j.-schwendner/</link>
+      <atom:link href="https://markus.gardill.net/authors/j.-schwendner/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Schwendner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/img/icon-192.png</url>
+      <title>J. Schwendner</title>
+      <link>https://markus.gardill.net/authors/j.-schwendner/</link>
+    </image>
+    
+    <item>
+      <title>In-Situ Time-Frequency Analysis of the 77 GHz Bands using a Commercial Chirp-Sequence Automotive FMCW Radar Sensor</title>
+      <link>https://markus.gardill.net/publication/ieee_ims_2019/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
+      <guid>https://markus.gardill.net/publication/ieee_ims_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

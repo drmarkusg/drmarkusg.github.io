@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert Weigel on Dr. Markus Gardill</title>
+    <title>Robert Weigel | Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/authors/robert-weigel/</link>
-    <description>Recent content in Robert Weigel on Dr. Markus Gardill</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://markus.gardill.net/authors/robert-weigel/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://markus.gardill.net/authors/robert-weigel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Weigel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/img/icon-192.png</url>
+      <title>Robert Weigel</title>
+      <link>https://markus.gardill.net/authors/robert-weigel/</link>
+    </image>
     
     <item>
       <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
       <link>https://markus.gardill.net/publication/kloc-low-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/publication/kloc-low-2016/</guid>
       <description></description>
     </item>

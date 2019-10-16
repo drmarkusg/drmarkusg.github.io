@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Dr. Markus Gardill</title>
+    <title>Authors | Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/authors/</link>
-    <description>Recent content in Authors on Dr. Markus Gardill</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://markus.gardill.net/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://markus.gardill.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://markus.gardill.net/authors/</link>
+    </image>
     
     <item>
       <title>J. Fuchs</title>
       <link>https://markus.gardill.net/authors/j.-fuchs/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/j.-fuchs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Schwendner</title>
+      <link>https://markus.gardill.net/authors/j.-schwendner/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
+      <guid>https://markus.gardill.net/authors/j.-schwendner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Gardill</title>
       <link>https://markus.gardill.net/authors/m.-gardill/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/m.-gardill/</guid>
       <description></description>
     </item>
@@ -32,8 +39,7 @@
     <item>
       <title>R. Weigel</title>
       <link>https://markus.gardill.net/authors/r.-weigel/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/r.-weigel/</guid>
       <description></description>
     </item>
@@ -42,7 +48,6 @@
       <title>Markus Gardill</title>
       <link>https://markus.gardill.net/authors/markus-gardill/</link>
       <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
-      
       <guid>https://markus.gardill.net/authors/markus-gardill/</guid>
       <description></description>
     </item>
@@ -50,8 +55,7 @@
     <item>
       <title>C. Frank</title>
       <link>https://markus.gardill.net/authors/c.-frank/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/c.-frank/</guid>
       <description></description>
     </item>
@@ -59,8 +63,7 @@
     <item>
       <title>A. Koelpin</title>
       <link>https://markus.gardill.net/authors/a.-koelpin/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/a.-koelpin/</guid>
       <description></description>
     </item>
@@ -68,8 +71,7 @@
     <item>
       <title>F. Lurz</title>
       <link>https://markus.gardill.net/authors/f.-lurz/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/f.-lurz/</guid>
       <description></description>
     </item>
@@ -77,8 +79,7 @@
     <item>
       <title>S. Lindner</title>
       <link>https://markus.gardill.net/authors/s.-lindner/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/s.-lindner/</guid>
       <description></description>
     </item>
@@ -86,8 +87,7 @@
     <item>
       <title>S. Linz</title>
       <link>https://markus.gardill.net/authors/s.-linz/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/authors/s.-linz/</guid>
       <description></description>
     </item>
@@ -95,8 +95,7 @@
     <item>
       <title>G. Fischer</title>
       <link>https://markus.gardill.net/authors/g.-fischer/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/g.-fischer/</guid>
       <description></description>
     </item>
@@ -104,8 +103,7 @@
     <item>
       <title>J. Brendel</title>
       <link>https://markus.gardill.net/authors/j.-brendel/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/j.-brendel/</guid>
       <description></description>
     </item>
@@ -113,8 +111,7 @@
     <item>
       <title>M. Kloc</title>
       <link>https://markus.gardill.net/authors/m.-kloc/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/m.-kloc/</guid>
       <description></description>
     </item>
@@ -122,8 +119,7 @@
     <item>
       <title>Matej Kloc</title>
       <link>https://markus.gardill.net/authors/matej-kloc/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/matej-kloc/</guid>
       <description></description>
     </item>
@@ -131,8 +127,7 @@
     <item>
       <title>Norman Franchi</title>
       <link>https://markus.gardill.net/authors/norman-franchi/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/norman-franchi/</guid>
       <description></description>
     </item>
@@ -140,8 +135,7 @@
     <item>
       <title>Robert Weigel</title>
       <link>https://markus.gardill.net/authors/robert-weigel/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/robert-weigel/</guid>
       <description></description>
     </item>
@@ -149,19 +143,21 @@
     <item>
       <title>S. Riess</title>
       <link>https://markus.gardill.net/authors/s.-riess/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://markus.gardill.net/authors/s.-riess/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markus</title>
+      <title></title>
       <link>https://markus.gardill.net/authors/markus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://markus.gardill.net/authors/markus/</guid>
-      <description></description>
+      <description>&lt;p&gt;Markus Gardill is head of the group for radar signal processing and tracking at InnoSenT GmbH, Donnersdorf, Germany.
+He also acts as lecturer at the Friedrich-Alexander-University Erlangen-Nürnberg for the field of wireless automotive electronics.
+He is vice-chair of the IEEE Microwave Theory and Techniques Societey Technical Committe 9 for digital signal processing.
+Since 2018, Markus Gardill serves as IEEE Distinguished Microwave Lecturer with a talk on automotive radar sytems.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

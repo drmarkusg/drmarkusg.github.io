@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Lurz on Dr. Markus Gardill</title>
+    <title>F. Lurz | Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/authors/f.-lurz/</link>
-    <description>Recent content in F. Lurz on Dr. Markus Gardill</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://markus.gardill.net/authors/f.-lurz/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://markus.gardill.net/authors/f.-lurz/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Lurz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2017 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/img/icon-192.png</url>
+      <title>F. Lurz</title>
+      <link>https://markus.gardill.net/authors/f.-lurz/</link>
+    </image>
     
     <item>
       <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
       <link>https://markus.gardill.net/publication/ieee_ims_2017/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Fri, 23 Jun 2017 00:00:00 -0400</pubDate>
       <guid>https://markus.gardill.net/publication/ieee_ims_2017/</guid>
       <description></description>
     </item>
