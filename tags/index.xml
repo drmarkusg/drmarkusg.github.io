@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Dr. Markus Gardill</title>
+    <title>Tags on Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/tags/</link>
-      <atom:link href="https://markus.gardill.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://markus.gardill.net/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://markus.gardill.net/tags/</link>
-    </image>
+    <description>Recent content in Tags on Dr. Markus Gardill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://markus.gardill.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://markus.gardill.net/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://markus.gardill.net/tags/deep-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

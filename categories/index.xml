@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Dr. Markus Gardill</title>
+    <title>Categories on Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/categories/</link>
-      <atom:link href="https://markus.gardill.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://markus.gardill.net/img/icon-192.png</url>
-      <title>Categories</title>
-      <link>https://markus.gardill.net/categories/</link>
-    </image>
+    <description>Recent content in Categories on Dr. Markus Gardill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://markus.gardill.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
