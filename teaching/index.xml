@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teachings on Dr. Markus Gardill</title>
+    <title>Teaching | Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/teaching/</link>
-    <description>Recent content in Teachings on Dr. Markus Gardill</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://markus.gardill.net/teaching/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://markus.gardill.net/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching</title>
+      <link>https://markus.gardill.net/teaching/</link>
+    </image>
     
     <item>
       <title>Circuits &amp; Systems for Communications</title>
       <link>https://markus.gardill.net/teaching/ssue/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://markus.gardill.net/teaching/ssue/</guid>
-      <description>An example of using the in-built project page.</description>
+      <description></description>
     </item>
     
   </channel>

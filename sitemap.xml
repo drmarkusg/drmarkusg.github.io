@@ -1,367 +1,227 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/</loc>
-      <lastmod>2020-03-11T10:40:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/authors/</loc>
+    <lastmod>2020-03-11T10:40:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/</loc>
-      <lastmod>2020-03-11T10:40:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/</loc>
+    <lastmod>2020-03-11T10:40:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/markus-gardill/</loc>
-      <lastmod>2020-03-11T10:40:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/markus-gardill/</loc>
+    <lastmod>2020-03-11T10:40:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/talk/</loc>
-      <lastmod>2020-03-11T10:40:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/talk/</loc>
+    <lastmod>2020-03-11T10:40:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/talk/2020_06_21_ims_workshop/</loc>
-      <lastmod>2020-03-11T10:40:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/talk/2020_06_21_ims_workshop/</loc>
+    <lastmod>2020-03-11T10:40:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/talk/2020_09_21_radarconferencekeynote/</loc>
-      <lastmod>2020-03-11T10:35:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/talk/2020_09_21_radarconferencekeynote/</loc>
+    <lastmod>2020-03-11T10:35:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/talk/2020_03_11_gemic2020_keynote/</loc>
-      <lastmod>2020-03-11T10:30:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/talk/2020_03_11_gemic2020_keynote/</loc>
+    <lastmod>2020-03-11T10:30:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication_types/1/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication-type/1/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/ieee_rww_2020/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/ieee_rww_2020/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/j.-fuchs/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/j.-fuchs/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/j.-schwendner/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/j.-schwendner/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/m.-gardill/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/m.-gardill/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication_types/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication_types/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/</loc>
-      <lastmod>2020-01-29T17:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/</loc>
+    <lastmod>2020-01-29T17:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/ieee_ims_2019/</loc>
-      <lastmod>2019-06-05T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/ieee_ims_2019/</loc>
+    <lastmod>2019-06-05T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/r.-weigel/</loc>
-      <lastmod>2019-04-16T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/r.-weigel/</loc>
+    <lastmod>2019-04-16T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/ieee_icmim_2019/</loc>
-      <lastmod>2019-04-16T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/ieee_icmim_2019/</loc>
+    <lastmod>2019-04-16T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/talk/dml/</loc>
-      <lastmod>2019-03-15T23:17:55+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/talk/dml/</loc>
+    <lastmod>2019-03-15T23:17:55+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/ieee_rww_2019/</loc>
-      <lastmod>2019-01-23T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/ieee_rww_2019/</loc>
+    <lastmod>2019-01-23T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/ieee_mlsp_2018/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/ieee_mlsp_2018/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/c.-frank/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/c.-frank/</loc>
+    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/a.-koelpin/</loc>
-      <lastmod>2017-06-23T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/a.-koelpin/</loc>
+    <lastmod>2017-06-23T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/f.-lurz/</loc>
-      <lastmod>2017-06-23T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/f.-lurz/</loc>
+    <lastmod>2017-06-23T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/s.-lindner/</loc>
-      <lastmod>2017-06-23T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/s.-lindner/</loc>
+    <lastmod>2017-06-23T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/s.-linz/</loc>
-      <lastmod>2017-06-23T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/s.-linz/</loc>
+    <lastmod>2017-06-23T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/ieee_ims_2017/</loc>
-      <lastmod>2017-06-23T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/ieee_ims_2017/</loc>
+    <lastmod>2017-06-23T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/teaching/ssue/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/teaching/ssue/</loc>
+    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/teaching/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/teaching/</loc>
+    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication_types/2/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication-type/2/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/g.-fischer/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/g.-fischer/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/j.-brendel/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/j.-brendel/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/kloc-lets-2016/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/kloc-lets-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/kloc-low-2016/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/kloc-low-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/m.-kloc/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/m.-kloc/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/matej-kloc/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/matej-kloc/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/norman-franchi/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/norman-franchi/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/robert-weigel/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/robert-weigel/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/authors/s.-riess/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/s.-riess/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication_types/3/</loc>
-      <lastmod>2015-08-21T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication-type/3/</loc>
+    <lastmod>2015-08-21T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/publication/phd_thesis/</loc>
-      <lastmod>2015-08-21T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/publication/phd_thesis/</loc>
+    <lastmod>2015-08-21T00:00:00+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/author/markus/</loc>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/author/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/author/</loc>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/categories/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/categories/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markus.gardill.net/post/</loc>
-    </url>
-    
+  <url>
+    <loc>https://markus.gardill.net/post/</loc>
+  </url>
   
 </urlset>

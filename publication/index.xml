@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Dr. Markus Gardill</title>
+    <title>Publications | Dr. Markus Gardill</title>
     <link>https://markus.gardill.net/publication/</link>
-    <description>Recent content in Publications on Dr. Markus Gardill</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2020 17:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://markus.gardill.net/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://markus.gardill.net/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 17:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://markus.gardill.net/publication/</link>
+    </image>
     
     <item>
       <title>An Approach to Over-the-air Synchronization of Commercial Chirp-Sequence Automotive Radar Sensors</title>
       <link>https://markus.gardill.net/publication/ieee_rww_2020/</link>
       <pubDate>Wed, 29 Jan 2020 17:00:00 +0100</pubDate>
-      
       <guid>https://markus.gardill.net/publication/ieee_rww_2020/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>In-Situ Time-Frequency Analysis of the 77 GHz Bands using a Commercial Chirp-Sequence Automotive FMCW Radar Sensor</title>
       <link>https://markus.gardill.net/publication/ieee_ims_2019/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://markus.gardill.net/publication/ieee_ims_2019/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Single-Snapshot Direction-of-Arrival Estimation of Multiple Targets using a Multi-Layer Perceptron</title>
       <link>https://markus.gardill.net/publication/ieee_icmim_2019/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://markus.gardill.net/publication/ieee_icmim_2019/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Model Order Estimation using a Multi-Layer Perceptron for Direction-of-Arrival Estimation in Automotive Radar Sensors</title>
       <link>https://markus.gardill.net/publication/ieee_rww_2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://markus.gardill.net/publication/ieee_rww_2019/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
       <link>https://markus.gardill.net/publication/ieee_mlsp_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://markus.gardill.net/publication/ieee_mlsp_2018/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
       <link>https://markus.gardill.net/publication/ieee_ims_2017/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0200</pubDate>
-      
       <guid>https://markus.gardill.net/publication/ieee_ims_2017/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
       <link>https://markus.gardill.net/publication/kloc-lets-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://markus.gardill.net/publication/kloc-lets-2016/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
       <link>https://markus.gardill.net/publication/kloc-low-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://markus.gardill.net/publication/kloc-low-2016/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Characterization and design of small array antennas for direction-of-arrival estimation for ultra-wideband industrial FMCW radar systems</title>
       <link>https://markus.gardill.net/publication/phd_thesis/</link>
       <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://markus.gardill.net/publication/phd_thesis/</guid>
       <description></description>
     </item>

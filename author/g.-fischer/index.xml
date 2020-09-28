@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Fischer | Dr. Markus Gardill</title>
+    <link>https://markus.gardill.net/author/g.-fischer/</link>
+      <atom:link href="https://markus.gardill.net/author/g.-fischer/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Fischer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://markus.gardill.net/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Fischer</title>
+      <link>https://markus.gardill.net/author/g.-fischer/</link>
+    </image>
+    
+    <item>
+      <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
+      <link>https://markus.gardill.net/publication/kloc-lets-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://markus.gardill.net/publication/kloc-lets-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
