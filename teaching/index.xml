@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Dr. Markus Gardill</title>
-    <link>https://markus.gardill.net/teaching/</link>
-      <atom:link href="https://markus.gardill.net/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <title>Teaching | Academic</title>
+    <link>https://example.com/teaching/</link>
+      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://markus.gardill.net/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
-      <link>https://markus.gardill.net/teaching/</link>
+      <link>https://example.com/teaching/</link>
     </image>
     
     <item>
       <title>Circuits &amp; Systems for Communications</title>
-      <link>https://markus.gardill.net/teaching/ssue/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/teaching/ssue/</guid>
+      <link>https://example.com/teaching/ssue/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/ssue/</guid>
       <description></description>
     </item>
     

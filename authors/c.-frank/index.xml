@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Frank | Academic</title>
+    <link>https://example.com/authors/c.-frank/</link>
+      <atom:link href="https://example.com/authors/c.-frank/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Frank</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>C. Frank</title>
+      <link>https://example.com/authors/c.-frank/</link>
+    </image>
+    
+    <item>
+      <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
+      <link>https://example.com/publication/ieee_mlsp_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_mlsp_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

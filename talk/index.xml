@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Dr. Markus Gardill</title>
-    <link>https://markus.gardill.net/talk/</link>
-      <atom:link href="https://markus.gardill.net/talk/index.xml" rel="self" type="application/rss+xml" />
+    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <link>https://example.com/talk/</link>
+      <atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 10:40:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 10:40:00 +0100</lastBuildDate>
     <image>
-      <url>https://markus.gardill.net/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://markus.gardill.net/talk/</link>
+      <link>https://example.com/talk/</link>
     </image>
     
     <item>
       <title>Workshop Talk: Machine Learning and AI Techniques with Intelligent RF-mmWave Systems for Wireless Communication, Sensing, and Computation</title>
-      <link>https://markus.gardill.net/talk/2020_06_21_ims_workshop/</link>
+      <link>https://example.com/talk/2020_06_21_ims_workshop/</link>
       <pubDate>Wed, 11 Mar 2020 10:40:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/2020_06_21_ims_workshop/</guid>
+      <guid>https://example.com/talk/2020_06_21_ims_workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenote Talk at the IEEE Radar Conference 2020 (RadConf)</title>
-      <link>https://markus.gardill.net/talk/2020_09_21_radarconferencekeynote/</link>
+      <link>https://example.com/talk/2020_09_21_radarconferencekeynote/</link>
       <pubDate>Wed, 11 Mar 2020 10:35:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/2020_09_21_radarconferencekeynote/</guid>
+      <guid>https://example.com/talk/2020_09_21_radarconferencekeynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenote Talk at the German Microwave Conference 2020 (GeMiC)</title>
-      <link>https://markus.gardill.net/talk/2020_03_11_gemic2020_keynote/</link>
+      <link>https://example.com/talk/2020_03_11_gemic2020_keynote/</link>
       <pubDate>Wed, 11 Mar 2020 10:30:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/2020_03_11_gemic2020_keynote/</guid>
+      <guid>https://example.com/talk/2020_03_11_gemic2020_keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinguished Microwave Lecture: Automotive Radar - A Signal Processing Perspective on Current Technology and Future Systems</title>
-      <link>https://markus.gardill.net/talk/dml/</link>
+      <link>https://example.com/talk/dml/</link>
       <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/dml/</guid>
+      <guid>https://example.com/talk/dml/</guid>
       <description>&lt;iframe src=&#34;https://www.google.de/maps/d/embed?mid=1nZKYwzACpFc1z3rPmqS1Nhoimljg0vgV&#34; width=&#34;640&#34; height=&#34;300&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>

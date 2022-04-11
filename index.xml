@@ -1,127 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dr. Markus Gardill</title>
-    <link>https://markus.gardill.net/</link>
-      <atom:link href="https://markus.gardill.net/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dr. Markus Gardill</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 10:40:00 +0100</lastBuildDate>
+    <title>Academic</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 10:40:00 +0100</lastBuildDate>
     <image>
-      <url>https://markus.gardill.net/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Dr. Markus Gardill</title>
-      <link>https://markus.gardill.net/</link>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/</link>
     </image>
     
     <item>
       <title>Workshop Talk: Machine Learning and AI Techniques with Intelligent RF-mmWave Systems for Wireless Communication, Sensing, and Computation</title>
-      <link>https://markus.gardill.net/talk/2020_06_21_ims_workshop/</link>
+      <link>https://example.com/talk/2020_06_21_ims_workshop/</link>
       <pubDate>Wed, 11 Mar 2020 10:40:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/2020_06_21_ims_workshop/</guid>
+      <guid>https://example.com/talk/2020_06_21_ims_workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenote Talk at the IEEE Radar Conference 2020 (RadConf)</title>
-      <link>https://markus.gardill.net/talk/2020_09_21_radarconferencekeynote/</link>
+      <link>https://example.com/talk/2020_09_21_radarconferencekeynote/</link>
       <pubDate>Wed, 11 Mar 2020 10:35:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/2020_09_21_radarconferencekeynote/</guid>
+      <guid>https://example.com/talk/2020_09_21_radarconferencekeynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenote Talk at the German Microwave Conference 2020 (GeMiC)</title>
-      <link>https://markus.gardill.net/talk/2020_03_11_gemic2020_keynote/</link>
+      <link>https://example.com/talk/2020_03_11_gemic2020_keynote/</link>
       <pubDate>Wed, 11 Mar 2020 10:30:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/2020_03_11_gemic2020_keynote/</guid>
+      <guid>https://example.com/talk/2020_03_11_gemic2020_keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Approach to Over-the-air Synchronization of Commercial Chirp-Sequence Automotive Radar Sensors</title>
-      <link>https://markus.gardill.net/publication/ieee_rww_2020/</link>
-      <pubDate>Wed, 29 Jan 2020 17:00:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/publication/ieee_rww_2020/</guid>
+      <link>https://example.com/publication/ieee_rww_2020/</link>
+      <pubDate>Wed, 29 Jan 2020 17:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_rww_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In-Situ Time-Frequency Analysis of the 77 GHz Bands using a Commercial Chirp-Sequence Automotive FMCW Radar Sensor</title>
-      <link>https://markus.gardill.net/publication/ieee_ims_2019/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/publication/ieee_ims_2019/</guid>
+      <link>https://example.com/publication/ieee_ims_2019/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_ims_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Snapshot Direction-of-Arrival Estimation of Multiple Targets using a Multi-Layer Perceptron</title>
-      <link>https://markus.gardill.net/publication/ieee_icmim_2019/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/publication/ieee_icmim_2019/</guid>
+      <link>https://example.com/publication/ieee_icmim_2019/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_icmim_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinguished Microwave Lecture: Automotive Radar - A Signal Processing Perspective on Current Technology and Future Systems</title>
-      <link>https://markus.gardill.net/talk/dml/</link>
+      <link>https://example.com/talk/dml/</link>
       <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
-      <guid>https://markus.gardill.net/talk/dml/</guid>
+      <guid>https://example.com/talk/dml/</guid>
       <description>&lt;iframe src=&#34;https://www.google.de/maps/d/embed?mid=1nZKYwzACpFc1z3rPmqS1Nhoimljg0vgV&#34; width=&#34;640&#34; height=&#34;300&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Model Order Estimation using a Multi-Layer Perceptron for Direction-of-Arrival Estimation in Automotive Radar Sensors</title>
-      <link>https://markus.gardill.net/publication/ieee_rww_2019/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/publication/ieee_rww_2019/</guid>
+      <link>https://example.com/publication/ieee_rww_2019/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_rww_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Multi-Layer Perceptron Applied To Number Of Target Indication For Direction-Of-Arrival Estimation In Automotive Radar Sensors</title>
-      <link>https://markus.gardill.net/publication/ieee_mlsp_2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/publication/ieee_mlsp_2018/</guid>
+      <link>https://example.com/publication/ieee_mlsp_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_mlsp_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Communication and Relative Localization System for Firefighters and Rescuers</title>
-      <link>https://markus.gardill.net/publication/ieee_ims_2017/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/publication/ieee_ims_2017/</guid>
+      <link>https://example.com/publication/ieee_ims_2017/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee_ims_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circuits &amp; Systems for Communications</title>
-      <link>https://markus.gardill.net/teaching/ssue/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/teaching/ssue/</guid>
+      <link>https://example.com/teaching/ssue/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/ssue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Let&#39;s Make Them Cognitive Cognitive Radio Technology Applied to Professional Wireless Microphone Systems</title>
-      <link>https://markus.gardill.net/publication/kloc-lets-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/publication/kloc-lets-2016/</guid>
+      <link>https://example.com/publication/kloc-lets-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kloc-lets-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
-      <link>https://markus.gardill.net/publication/kloc-low-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>https://markus.gardill.net/publication/kloc-low-2016/</guid>
+      <link>https://example.com/publication/kloc-low-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kloc-low-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization and design of small array antennas for direction-of-arrival estimation for ultra-wideband industrial FMCW radar systems</title>
-      <link>https://markus.gardill.net/publication/phd_thesis/</link>
-      <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
-      <guid>https://markus.gardill.net/publication/phd_thesis/</guid>
+      <link>https://example.com/publication/phd_thesis/</link>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/phd_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
       <description></description>
     </item>
     

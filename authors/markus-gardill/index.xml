@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Gardill | Academic</title>
+    <link>https://example.com/authors/markus-gardill/</link>
+      <atom:link href="https://example.com/authors/markus-gardill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Gardill</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 10:40:00 +0100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Markus Gardill</title>
+      <link>https://example.com/authors/markus-gardill/</link>
+    </image>
+    
+    <item>
+      <title>Workshop Talk: Machine Learning and AI Techniques with Intelligent RF-mmWave Systems for Wireless Communication, Sensing, and Computation</title>
+      <link>https://example.com/talk/2020_06_21_ims_workshop/</link>
+      <pubDate>Wed, 11 Mar 2020 10:40:00 +0100</pubDate>
+      <guid>https://example.com/talk/2020_06_21_ims_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenote Talk at the IEEE Radar Conference 2020 (RadConf)</title>
+      <link>https://example.com/talk/2020_09_21_radarconferencekeynote/</link>
+      <pubDate>Wed, 11 Mar 2020 10:35:00 +0100</pubDate>
+      <guid>https://example.com/talk/2020_09_21_radarconferencekeynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenote Talk at the German Microwave Conference 2020 (GeMiC)</title>
+      <link>https://example.com/talk/2020_03_11_gemic2020_keynote/</link>
+      <pubDate>Wed, 11 Mar 2020 10:30:00 +0100</pubDate>
+      <guid>https://example.com/talk/2020_03_11_gemic2020_keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguished Microwave Lecture: Automotive Radar - A Signal Processing Perspective on Current Technology and Future Systems</title>
+      <link>https://example.com/talk/dml/</link>
+      <pubDate>Fri, 15 Mar 2019 23:17:55 +0100</pubDate>
+      <guid>https://example.com/talk/dml/</guid>
+      <description>&lt;iframe src=&#34;https://www.google.de/maps/d/embed?mid=1nZKYwzACpFc1z3rPmqS1Nhoimljg0vgV&#34; width=&#34;640&#34; height=&#34;300&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low Latency Evaluation of an Adaptive Industrial Wireless Communications System for ISM Bands</title>
+      <link>https://example.com/publication/kloc-low-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kloc-low-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
